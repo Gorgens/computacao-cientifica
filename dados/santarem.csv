@@ -1,0 +1,164 @@
+base,nomePopular,nomeCient,familia,deadAno1,deadAno2,ingresso,dap1,dap2,ida,intervaloMed,ht1,hcom1,ht2,hcom2,posSocio,luminosidade,classeDiam,classeDiam2,grupoEco,utmLeste,UTMNorte
+Santarem_3_PA,urucurana,Sloanea guianensis,Elaeocarpaceae,FALSE,TRUE,INCOSISTENTE,,,,2,3.38,2.47,,,,,5,c5,,735903.0405,9669925.923
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,17.2,,,2,13.19,11.52,,,,,15,c015,,735901.5968,9669928.078
+Santarem_3_PA,inga vermelho,Inga alba,Fabaceae,FALSE,FALSE,,33.7,,,2,24.19,9.48,,,,,35,c035,Light-demanding,735898.1384,9669926.374
+Santarem_3_PA,envira preta,Guatteria schomburgkiana,Annonaceae,FALSE,TRUE,INCOSISTENTE,,,,2,14.17,9.51,,,,,5,c5,Shade-tolerant,735894.0366,9669926.751
+Santarem_3_PA,abiurana branca,Pouteria guianensis,Sapotaceae,FALSE,FALSE,,12.2,,,2,9.39,4.3,,,,,15,c015,,735893.9963,9669928.783
+Santarem_3_PA,parapara,Jacaranda copaia,Bignoniaceae,FALSE,FALSE,,22.2,,,2,18.36,14.86,,,,,25,c025,Pioneer,735889.1038,9669926.188
+Santarem_3_PA,parapara,Jacaranda copaia,Bignoniaceae,FALSE,FALSE,,14.2,,,2,17.47,14.75,,,,,15,c015,Pioneer,735888.4342,9669927.266
+Santarem_3_PA,parapara,Jacaranda copaia,Bignoniaceae,FALSE,FALSE,,21.4,,,2,22.03,14.84,,,,,25,c025,Pioneer,735888.2032,9669926.27
+Santarem_3_PA,urucurana,Sloanea guianensis,Elaeocarpaceae,FALSE,TRUE,INCOSISTENTE,,,,2,10.36,3.65,,,,,5,c5,,735887.8983,9669925.485
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,20.6,,,2,5.67,4.91,,,,,25,c025,,735879.5629,9669929.102
+Santarem_3_PA,urucurana,Sloanea guianensis,Elaeocarpaceae,FALSE,TRUE,INCOSISTENTE,,,,2,2.73,1.36,,,,,5,c5,,735879.5026,9669929.414
+Santarem_3_PA,joao-mole,Neea oppositifolia,Nyctaginaceae,FALSE,FALSE,,10.8,,,2,4.8,3.24,,,,,15,c015,Shade-tolerant,735874.2951,9669930.612
+Santarem_3_PA,urucurana,Sloanea guianensis,Elaeocarpaceae,FALSE,FALSE,,16.5,,,2,13.6,9.27,,,,,15,c015,,735869.7293,9669932.061
+Santarem_3_PA,fava-barbatimao,Stryphnodendron pulcherrimum,Fabaceae,FALSE,FALSE,,24,,,2,14.36,9.49,,,,,25,c025,,735871.9291,9669931.856
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,27.3,,,2,19.06,11.68,,,,,25,c025,,735860.422,9669929.84
+Santarem_3_PA,cucutitiriba,Pouteria sp,Sapotaceae,FALSE,FALSE,,11.2,,,2,4.97,2.96,,,,,15,c015,Shade-tolerant,735858.1846,9669929.016
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,10.4,,,2,10.67,7.91,,,,,15,c015,,735856.4562,9669928.968
+Santarem_3_PA,cucutitiriba,Pouteria sp,Sapotaceae,FALSE,FALSE,,54.5,,,2,28.77,17.02,,,,,55,c055,Shade-tolerant,735874.8627,9669965.41
+Santarem_3_PA,marupa,Simarouba amara,Simaroubaceae,FALSE,FALSE,,47.6,,,2,24.23,12.76,,,,,45,c045,,735874.138,9669967.543
+Santarem_3_PA,goiabao,Pradosia cochlearia,Sapotaceae,FALSE,FALSE,,53,,,2,27.47,16.06,,,,,55,c055,,735897.7603,9669947.7
+Santarem_3_PA,inga vermelho,Inga alba,Fabaceae,FALSE,FALSE,,36.1,,,2,23.85,12.78,,,,,35,c035,Light-demanding,735900.8789,9669948.398
+Santarem_3_PA,abiurana casca fina,Pouteria retinervis,Sapotaceae,FALSE,FALSE,,36,,,2,19.34,12.45,,,,,35,c035,,735903.4822,9669945.096
+Santarem_3_PA,inga vermelho,Inga alba,Fabaceae,FALSE,FALSE,,42.8,,,2,22.77,10.56,,,,,45,c045,Light-demanding,735906.0889,9669941.801
+Santarem_3_PA,inga vermelho,Inga alba,Fabaceae,FALSE,FALSE,,18.7,,,2,20.84,14.9,,,,,15,c015,Light-demanding,735748.2612,9669946.987
+Santarem_3_PA,inga branco,Inga thibaudiana,Fabaceae,FALSE,FALSE,,14.7,,,2,19.95,13.27,,,,,15,c015,,735747.8537,9669945.959
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,24.4,,,2,25.26,18.69,,,,,25,c025,,735745.0623,9669949.58
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,37.2,,,2,26.31,15.17,,,,,35,c035,,735741.3692,9669947.921
+Santarem_3_PA,inga branco,Inga thibaudiana,Fabaceae,FALSE,FALSE,,20,,,2,20.4,11.42,,,,,25,c025,,735737.58,9669946.079
+Santarem_3_PA,parapara,Jacaranda copaia,Bignoniaceae,FALSE,TRUE,INCOSISTENTE,,,,2,17.82,16.12,,,,,5,c5,Pioneer,735736.2096,9669946.482
+Santarem_3_PA,urucurana,Sloanea guianensis,Elaeocarpaceae,FALSE,TRUE,INCOSISTENTE,,,,2,6.98,2.45,,,,,5,c5,,735731.6015,9669950.306
+Santarem_3_PA,inga branco,Inga thibaudiana,Fabaceae,FALSE,TRUE,INCOSISTENTE,,,,2,14.46,6.6,,,,,5,c5,,735724.1439,9669947.201
+Santarem_3_PA,parapara,Jacaranda copaia,Bignoniaceae,FALSE,TRUE,INCOSISTENTE,,,,2,20.31,17.74,,,,,5,c5,Pioneer,735716.1493,9669949.252
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,TRUE,INCOSISTENTE,,,,2,17.79,9.2,,,,,5,c5,,735714.5705,9669949.47
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,39.3,,,2,26.29,18.67,,,,,35,c035,,735724.4717,9669976.463
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,TRUE,INCOSISTENTE,,,,2,26.29,15.55,,,,,5,c5,,735729.6841,9669990.648
+Santarem_3_PA,matamata branco,Eschweilera coriacea,Lecythidaceae,FALSE,FALSE,,37.8,,,2,23.08,15.26,,,,,35,c035,Shade-tolerant,735740.8282,9669992.867
+Santarem_3_PA,matamata branco,Eschweilera coriacea,Lecythidaceae,FALSE,TRUE,INCOSISTENTE,,,,2,19.7,11.62,,,,,5,c5,Shade-tolerant,735755.2907,9669997.052
+Santarem_3_PA,matamata branco,Eschweilera coriacea,Lecythidaceae,FALSE,FALSE,,54.2,,,2,25.02,19.04,,,,,55,c055,Shade-tolerant,735746.6505,9669974.159
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,37,,,2,24.62,12.23,,,,,35,c035,,735737.6419,9669971.904
+Santarem_3_PA,fava-paricana,Dimorphandra macrostachya,Fabaceae,FALSE,FALSE,,42.3,,,2,28.49,16.65,,,,,45,c045,,735747.9567,9669968.64
+Santarem_3_PA,timborana,Pseudopiptadenia suaveolens,Fabaceae,FALSE,FALSE,,63,,,2,44.77,28.26,,,,,65,c065,Intermediate,735749.3636,9669964.166
+Santarem_3_PA,parapara,Jacaranda copaia,Bignoniaceae,FALSE,FALSE,,18.8,,,2,21.37,18.85,,,,,15,c015,Pioneer,735606.0347,9669962.225
+Santarem_3_PA,morototo,Schefflera morototoni,Araliaceae,FALSE,FALSE,,12.7,,,2,17.69,15.04,,,,,15,c015,Pioneer,735605.5713,9669966.478
+Santarem_3_PA,parapara,Jacaranda copaia,Bignoniaceae,FALSE,FALSE,,12.7,,,2,19.24,16.48,,,,,15,c015,Pioneer,735600.43,9669963.302
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,17.6,,,2,15.23,12.95,,,,,15,c015,,735600.4912,9669962.978
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,32.2,,,2,29.04,13.67,,,,,35,c035,,735599.4525,9669964.806
+Santarem_3_PA,inhare,Helicostylis sp,Moraceae,FALSE,FALSE,,31.2,,,2,25.03,19.53,,,,,35,c035,,735593.2042,9669965.241
+Santarem_3_PA,inhare,Helicostylis sp,Moraceae,FALSE,FALSE,,39.3,,,2,27.59,20.64,,,,,35,c035,,735594.8494,9669966.922
+Santarem_3_PA,acariquara,Minquartia guianensis,Olacaceae,FALSE,FALSE,,36.6,,,2,18.18,6.67,,,,,35,c035,Shade-tolerant,735601.1379,9669962.89
+Santarem_3_PA,ucuubarana,Iryanthera paraensis,Myristicaceae,FALSE,FALSE,,26.5,,,2,22.91,16.9,,,,,25,c025,,735583.9456,9669966.618
+Santarem_3_PA,cucutitiriba,Pouteria sp,Sapotaceae,FALSE,FALSE,,27,,,2,22.75,12.42,,,,,25,c025,Shade-tolerant,735578.3174,9669965.988
+Santarem_3_PA,abiurana branca,Pouteria guianensis,Sapotaceae,FALSE,FALSE,,17.1,,,2,21.8,15.77,,,,,15,c015,,735577.4535,9669967.401
+Santarem_3_PA,joao-mole,Neea oppositifolia,Nyctaginaceae,FALSE,FALSE,,14.8,,,2,16.86,10.31,,,,,15,c015,Shade-tolerant,735573.3282,9669966.666
+Santarem_3_PA,mapatirana,Pourouma villosa,Urticaceae,FALSE,FALSE,,33.7,,,2,26.3,16.2,,,,,35,c035,,735571.6725,9669967.108
+Santarem_3_PA,inga branco,Inga thibaudiana,Fabaceae,FALSE,FALSE,,11.2,,,2,19.59,14.53,,,,,15,c015,,735565.5367,9669970.784
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,17.7,,,2,23.05,18.01,,,,,15,c015,,735561.8718,9669968.221
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,33.7,,,2,29.24,21.43,,,,,35,c035,,735562.3879,9669972.208
+Santarem_3_PA,inga branco,Inga thibaudiana,Fabaceae,FALSE,FALSE,,11.9,,,2,8.39,4.96,,,,,15,c015,,735563.0223,9670019.603
+Santarem_3_PA,sucupira babona,Diplotropis sp,Fabaceae,FALSE,FALSE,,52,,,2,32.08,21.99,,,,,55,c055,,735574.7006,9669982.726
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,35,,,2,31.48,20.32,,,,,35,c035,,735579.0317,9670014.488
+Santarem_3_PA,jatereu,Lecythis idatimon,Lecythidaceae,FALSE,FALSE,,38,,,2,23.01,18.39,,,,,35,c035,Shade-tolerant,735574.9454,9670015.233
+Santarem_3_PA,inga branco,Inga thibaudiana,Fabaceae,FALSE,FALSE,,40,,,2,24.39,17.96,,,,,45,c045,,735570.7023,9670010.558
+Santarem_3_PA,lacrao,Vismia floribunda,Hypericaceae,FALSE,FALSE,,37.5,,,2,29.57,22.25,,,,,35,c035,,735561.6886,9670019.849
+Santarem_3_PA,maracatiara,Astronium graveolens,Anacardiaceae,FALSE,FALSE,,63.4,,,2,38.2,26.39,,,,,65,c065,,735585.7353,9670005.736
+Santarem_3_PA,cupiuba,Goupia glabra,Goupiaceae,FALSE,FALSE,,56.8,,,2,31.06,21.22,,,,,55,c055,,735597.6833,9670014.279
+Santarem_3_PA,casca doce,Coussarea brevicaulis,Rubiaceae,FALSE,FALSE,,42.3,,,2,24.28,13.08,,,,,45,c045,,735595.7135,9670002.917
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,37,,,2,34.49,25.65,,,,,35,c035,,735608.8858,9669983.804
+Santarem_3_PA,barrote,Tetragastris altissima,Burseraceae,FALSE,FALSE,,42.1,,,2,20.01,9.42,,,,,45,c045,Intermediate,735583.4322,9669983.544
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,38.9,,,2,31.03,25.51,,,,,35,c035,,735604.8608,9669973.926
+Santarem_3_PA,parapara,Jacaranda copaia,Bignoniaceae,FALSE,FALSE,,28,,,2,29.73,22.37,,,,,25,c025,Pioneer,735453.7679,9669988.409
+Santarem_3_PA,parapara,Jacaranda copaia,Bignoniaceae,FALSE,FALSE,,14.5,,,2,20.58,16.81,,,,,15,c015,Pioneer,735454.4411,9669985.322
+Santarem_3_PA,envira preta,Guatteria schomburgkiana,Annonaceae,FALSE,FALSE,,22,,,2,21,17.24,,,,,25,c025,Shade-tolerant,735452.6533,9669985.63
+Santarem_3_PA,parapara,Jacaranda copaia,Bignoniaceae,FALSE,FALSE,,11.8,,,2,20.52,17,,,,,15,c015,Pioneer,735452.7259,9669988.589
+Santarem_3_PA,parapara,Jacaranda copaia,Bignoniaceae,FALSE,FALSE,,29.7,,,2,28.26,22.25,,,,,25,c025,Pioneer,735452.8441,9669989.559
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,21.6,,,2,21.5,17.38,,,,,25,c025,,735448.1365,9669986.407
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,27.2,,,2,32.11,22.02,,,,,25,c025,,735441.7378,9669987.508
+Santarem_3_PA,parapara,Jacaranda copaia,Bignoniaceae,FALSE,FALSE,,24.3,,,2,27.44,21.68,,,,,25,c025,Pioneer,735441.8608,9669988.775
+Santarem_3_PA,pente-de-macaco,Apeiba petoumo,Malvaceae,FALSE,FALSE,,16.3,,,2,23.6,17.09,,,,,15,c015,Pioneer,735435.8723,9669991.591
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,27,,,2,29.59,23.45,,,,,25,c025,,735435.7856,9669991.705
+Santarem_3_PA,parapara,Jacaranda copaia,Bignoniaceae,FALSE,FALSE,,25,,,2,28.45,20.26,,,,,25,c025,Pioneer,735435.6586,9669991.331
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,23.5,,,2,26.86,18.74,,,,,25,c025,,735433.6123,9669989.7
+Santarem_3_PA,pau branco,Rinorea racemosa,Violaceae,FALSE,FALSE,,19,,,2,13.96,7.46,,,,,15,c015,,735425.2259,9669992.83
+Santarem_3_PA,inga branco,Inga thibaudiana,Fabaceae,FALSE,FALSE,,26.7,,,2,23.09,9.68,,,,,25,c025,,735423.1074,9669994.286
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,24.1,,,2,28.3,23.13,,,,,25,c025,,735414.9499,9669995.692
+Santarem_3_PA,parapara,Jacaranda copaia,Bignoniaceae,FALSE,TRUE,INCOSISTENTE,,,,2,16.88,12.23,,,,,5,c5,Pioneer,735412.9339,9669995.245
+Santarem_3_PA,parapara,Jacaranda copaia,Bignoniaceae,FALSE,FALSE,,30.5,,,2,29.57,21.89,,,,,35,c035,Pioneer,735412.8797,9669993.467
+Santarem_3_PA,louro cunauaru,Endlicheria sp,Lauraceae,FALSE,TRUE,INCOSISTENTE,,,,2,41.09,29.57,,,,,5,c5,,735413.0686,9670009.321
+Santarem_3_PA,amapa doce,Brosimum parinarioides,Moraceae,FALSE,FALSE,,82.6,,,2,25.15,15.56,,,,,85,c085,,735422.7296,9670025.512
+Santarem_3_PA,mandioqueira,Qualea paraensis,Vochysiaceae,FALSE,FALSE,,72.4,,,2,36.58,27.12,,,,,75,c075,,735424.5482,9670021.226
+Santarem_3_PA,cupiuba,Goupia glabra,Goupiaceae,FALSE,TRUE,INCOSISTENTE,,,,2,35.36,21.95,,,,,5,c5,,735444.1938,9670034.664
+Santarem_3_PA,matamata branco,Eschweilera coriacea,Lecythidaceae,FALSE,FALSE,,37.8,,,2,22.4,15.01,,,,,35,c035,Shade-tolerant,735448.293,9670023.044
+Santarem_3_PA,cupiuba,Goupia glabra,Goupiaceae,FALSE,FALSE,,43.2,,,2,29.39,17.39,,,,,45,c045,,735429.8024,9670008.408
+Santarem_3_PA,acariquara,Minquartia guianensis,Olacaceae,FALSE,FALSE,,66.5,,,2,24.08,14.56,,,,,65,c065,Shade-tolerant,735435.4544,9670004.454
+Santarem_3_PA,embauba,Cecropia ficifolia,Urticaceae,FALSE,FALSE,,35.6,,,2,17.54,11.59,,,,,35,c035,,NA,NA
+Santarem_3_PA,pau branco,Rinorea racemosa,Violaceae,FALSE,FALSE,,21.5,,,2,8.5,2.33,,,,,25,c025,,738101.9862,9666050.319
+Santarem_3_PA,capueiro,Rinorea guianensis,Violaceae,FALSE,FALSE,,22.3,,,2,22,15.4,,,,,25,c025,,738106.218,9666047.44
+Santarem_3_PA,inga-xixica,Inga heterophylla,Fabaceae,FALSE,FALSE,,18.8,,,2,18.8,12.42,,,,,15,c015,,738102.8281,9666045.153
+Santarem_3_PA,jatereu,Lecythis idatimon,Lecythidaceae,FALSE,FALSE,,14,,,2,15.84,9.99,,,,,15,c015,Shade-tolerant,738107.1493,9666040.969
+Santarem_3_PA,pau branco,Rinorea racemosa,Violaceae,FALSE,FALSE,,16.1,,,2,12.51,7.63,,,,,15,c015,,738109.8595,9666039.399
+Santarem_3_PA,murta,Strychnos subcordata,Loganiaceae,FALSE,FALSE,,24,,,2,18.67,10.64,,,,,25,c025,,738111.4518,9666037.276
+Santarem_3_PA,inga vermelho,Inga alba,Fabaceae,FALSE,FALSE,,63.9,,,2,32.62,17.07,,,,,65,c065,Light-demanding,738110.0661,9666034.949
+Santarem_3_PA,melancieira,Alexa grandiflora,Fabaceae,FALSE,FALSE,,11.8,,,2,11.83,8.51,,,,,15,c015,,738116.2631,9666031.675
+Santarem_3_PA,freijo branco,Cordia scabrifolia,Boraginaceae,FALSE,FALSE,,41,,,2,31.03,26.36,,,,,45,c045,,738086.1422,9666013.616
+Santarem_3_PA,envira-cana,Xylopia nitida,Annonaceae,FALSE,TRUE,INCOSISTENTE,,,,2,32.42,21.05,,,,,5,c5,,738085.2346,9666013.061
+Santarem_3_PA,morototo,Schefflera morototoni,Araliaceae,FALSE,FALSE,,59,,,2,29.3,19.55,,,,,55,c055,Pioneer,738090.2866,9666014.9
+Santarem_3_PA,urucum,Bixa arborea,Bixaceae,FALSE,FALSE,,36,,,2,20.29,12.97,,,,,35,c035,Pioneer,738078.219,9666015.057
+Santarem_3_PA,ipe roxo,Handroanthus impetiginosus,Bignoniaceae,FALSE,FALSE,,54.1,,,2,36.91,23.97,,,,,55,c055,,738067.569,9666031.203
+Santarem_3_PA,matamata branco,Eschweilera coriacea,Lecythidaceae,FALSE,FALSE,,37.8,,,2,25.7,16.47,,,,,35,c035,Shade-tolerant,738070.8925,9666035.691
+Santarem_3_PA,coracao-de-negro,Swartzia corrugata,Fabaceae,FALSE,FALSE,,43.5,,,2,33.7,23.45,,,,,45,c045,,738074.9967,9666034.4
+Santarem_3_PA,urucum,Bixa arborea,Bixaceae,FALSE,FALSE,,37.3,,,2,25.7,13.88,,,,,35,c035,Pioneer,738079.7925,9666029.79
+Santarem_3_PA,capueiro,Rinorea guianensis,Violaceae,FALSE,TRUE,INCOSISTENTE,,,,2,24.23,11.84,,,,,5,c5,,738169.1414,9665929.572
+Santarem_3_PA,abiurana vermelha,Pouteria gongrijpii,Sapotaceae,FALSE,FALSE,,28.6,,,2,23.1,15.14,,,,,25,c025,,738172.2365,9665928.379
+Santarem_3_PA,acariquara,Minquartia guianensis,Olacaceae,FALSE,FALSE,,26.9,,,2,17.93,12.15,,,,,25,c025,Shade-tolerant,738175.1806,9665923.293
+Santarem_3_PA,breu branco,Protium paniculatum,Burseraceae,FALSE,FALSE,,17.7,,,2,20.22,9.15,,,,,15,c015,,738178.8116,9665920.416
+Santarem_3_PA,andirobarana,Guarea guidonia,Meliaceae,FALSE,FALSE,,27.6,,,2,25.91,12.73,,,,,25,c025,,738181.1206,9665913.031
+Santarem_3_PA,abiurana branca,Pouteria guianensis,Sapotaceae,FALSE,FALSE,,30.6,,,2,26.76,19.57,,,,,35,c035,,738182.5739,9665908.259
+Santarem_3_PA,jataua,Trichilia micrantha,Meliaceae,FALSE,FALSE,,19.9,,,2,23.05,12.95,,,,,15,c015,Shade-tolerant,738181.9514,9665907.45
+Santarem_3_PA,andirobarana,Guarea guidonia,Meliaceae,FALSE,FALSE,,23,,,2,23.81,20.04,,,,,25,c025,,738184.7407,9665902.633
+Santarem_3_PA,matamata branco,Eschweilera coriacea,Lecythidaceae,FALSE,FALSE,,53,,,2,27.28,17.49,,,,,55,c055,Shade-tolerant,738184.7799,9665901.059
+Santarem_3_PA,goiabao,Pradosia cochlearia,Sapotaceae,FALSE,FALSE,,12,,,2,6.53,3.3,,,,,15,c015,,738186.5413,9665901.783
+Santarem_3_PA,barrote,Tetragastris altissima,Burseraceae,FALSE,FALSE,,22.9,,,2,22.21,14.96,,,,,25,c025,Intermediate,738187.2573,9665902.806
+Santarem_3_PA,itauba,Mezilaurus itauba,Lauraceae,FALSE,FALSE,,21.7,,,2,24.38,19.12,,,,,25,c025,,738187.0605,9665902.77
+Santarem_3_PA,jatereu,Lecythis idatimon,Lecythidaceae,FALSE,FALSE,,16,,,2,18.5,12.65,,,,,15,c015,Shade-tolerant,738189.7588,9665899.614
+Santarem_3_PA,mapatirana,Pourouma minor,Urticaceae,FALSE,FALSE,,42.6,,,2,28.55,20.68,,,,,45,c045,Pioneer,738194.4933,9665886.167
+Santarem_3_PA,piquia,Caryocar villosum,Caryocaraceae,FALSE,FALSE,,130.3,,,2,56.94,19.41,,,,,135,c135,Emergent,738162.4806,9665875.562
+Santarem_3_PA,acariquara,Minquartia guianensis,Olacaceae,FALSE,FALSE,,36.6,,,2,24.33,16.89,,,,,35,c035,Shade-tolerant,738161.4471,9665877.337
+Santarem_3_PA,acariquara,Minquartia guianensis,Olacaceae,FALSE,FALSE,,52.4,,,2,17.35,14.56,,,,,55,c055,Shade-tolerant,738157.4995,9665867.242
+Santarem_3_PA,jutai,Hymenaea parvifolia,Fabaceae,FALSE,TRUE,INCOSISTENTE,,,,2,41.72,31.61,,,,,5,c5,,738148.713,9665882.303
+Santarem_3_PA,urucum,Bixa arborea,Bixaceae,FALSE,FALSE,,46,,,2,23.35,16.1,,,,,45,c045,Pioneer,738145.9197,9665885.215
+Santarem_3_PA,matamata branco,Eschweilera coriacea,Lecythidaceae,FALSE,FALSE,,47.2,,,2,31.78,19.02,,,,,45,c045,Shade-tolerant,738140.4434,9665896.479
+Santarem_3_PA,inga branco,Inga thibaudiana,Fabaceae,FALSE,FALSE,,46.6,,,2,29.05,11.49,,,,,45,c045,,738149.6717,9665903.191
+Santarem_3_PA,abiurana,Pouteria gongrijpii,Sapotaceae,FALSE,TRUE,INCOSISTENTE,,,,2,24.42,15.82,,,,,5,c5,,738160.3266,9665892.402
+Santarem_3_PA,quinarana,Geissospermum sericeum,Apocynaceae,FALSE,FALSE,,48,,,2,29.29,19.37,,,,,45,c045,,738159.5147,9665905.079
+Santarem_3_PA,tachi vermelho,Tachigali paniculata,Fabaceae,FALSE,FALSE,,41,,,2,24.78,16.78,,,,,45,c045,Intermediate,738156.722,9665908.001
+Santarem_3_PA,abiurana branca,Pouteria guianensis,Sapotaceae,FALSE,FALSE,,38.8,,,2,28.98,21.32,,,,,35,c035,,738153.7252,9665913.157
+Santarem_3_PA,acariquara,Minquartia guianensis,Olacaceae,FALSE,TRUE,INCOSISTENTE,,,,2,19.95,12.49,,,,,5,c5,Shade-tolerant,738167.4998,9665912.036
+Santarem_3_PA,coracao-de-negro,Chamaecrista xinguensis,Fabaceae,FALSE,TRUE,INCOSISTENTE,,,,2,23.73,12.37,,,,,5,c5,,738239.2723,9665779.201
+Santarem_3_PA,freijo branco,Cordia scabrifolia,Boraginaceae,FALSE,FALSE,,49,,,2,21.23,16.9,,,,,45,c045,,738235.451,9665777.624
+Santarem_3_PA,tento,Ormosia grossa,Fabaceae,FALSE,FALSE,,10.7,,,2,18.29,14.49,,,,,15,c015,,738238.8288,9665774.456
+Santarem_3_PA,abiurana vermelha,Pouteria gongrijpii,Sapotaceae,FALSE,FALSE,,55.3,,,2,35,20.65,,,,,55,c055,,738240.3224,9665773.387
+Santarem_3_PA,cupiuba,Goupia glabra,Goupiaceae,FALSE,FALSE,,41.8,,,2,34.41,21.69,,,,,45,c045,,738237.6776,9665772.234
+Santarem_3_PA,canela-de-jacamim,Rinorea pubiflora,Violaceae,FALSE,TRUE,INCOSISTENTE,,,,2,15.75,9.41,,,,,5,c5,,738246.0952,9665758.376
+Santarem_3_PA,inga,Inga marginata,Fabaceae,FALSE,TRUE,INCOSISTENTE,,,,2,24.61,13.84,,,,,5,c5,,738204.2622,9665761.091
+Santarem_3_PA,tatapiririca,Tapirira guianensis,Anacardiaceae,FALSE,FALSE,,11.3,,,2,11.87,6.82,,,,,15,c015,,738283.9124,9665653.078
+Santarem_3_PA,ucuuba terra-firme,Virola sebifera,Myristicaceae,FALSE,FALSE,,10,,,2,12.01,7.53,,,,,15,c015,,738288.5642,9665653.605
+Santarem_3_PA,pau santo,Zollernia paraensis,Fabaceae,FALSE,FALSE,,52.3,,,2,32.07,19.84,,,,,55,c055,Shade-tolerant,738255.6922,9665636.415
+Santarem_3_PA,breu branco,Protium paniculatum,Burseraceae,FALSE,FALSE,,18.8,,,2,18.41,13.28,,,,,15,c015,,738289.5224,9665649.314
+Santarem_3_PA,muiratinga,Maquira coriacea,Moraceae,FALSE,FALSE,,13.4,,,2,13.38,8.81,,,,,15,c015,,738290.8497,9665638.821
+Santarem_3_PA,matamata preto,Eschweilera ovata,Lecythidaceae,FALSE,FALSE,,49.1,,,2,22.23,13.93,,,,,45,c045,,738295.3469,9665628.106
+Santarem_3_PA,inga amarelo,Inga sp,Fabaceae,FALSE,FALSE,,13.2,,,2,14.96,10.16,,,,,15,c015,,738297.1634,9665627.856
+Santarem_3_PA,gema-de-ovo,Aspidosperma parvifolium,Apocynaceae,FALSE,FALSE,,9.7,,,2,8.42,6.25,,,,,5,c5,,738297.0264,9665626.909
+Santarem_3_PA,abiurana vermelha,Pouteria gongrijpii,Sapotaceae,FALSE,FALSE,,37.5,,,2,28.44,21.27,,,,,35,c035,,738291.6896,9665623.815
+Santarem_3_PA,tachi vermelho,Tachigali paniculata,Fabaceae,FALSE,FALSE,,21.7,,,2,19.87,14.95,,,,,25,c025,Intermediate,738300.4651,9665625.099
+Santarem_3_PA,inga vermelho,Inga alba,Fabaceae,FALSE,FALSE,,16,,,2,18.98,12.28,,,,,15,c015,Light-demanding,738300.51,9665622.446
+Santarem_3_PA,murta,Strychnos subcordata,Loganiaceae,FALSE,TRUE,INCOSISTENTE,,,,2,1.24,0.58,,,,,5,c5,,738300.986,9665614.416
+Santarem_3_PA,quinarana,Geissospermum sericeum,Apocynaceae,FALSE,FALSE,,50.7,,,2,20.07,15.16,,,,,55,c055,,738286.3782,9665608.24
+Santarem_3_PA,matamata preto,Eschweilera ovata,Lecythidaceae,FALSE,FALSE,,42.6,,,2,29.31,20.36,,,,,45,c045,,738267.029,9665603.204
+Santarem_3_PA,matamata preto,Eschweilera ovata,Lecythidaceae,FALSE,FALSE,,36,,,2,31.07,20.12,,,,,35,c035,,738265.2702,9665591.657
+Santarem_3_PA,jarana,Lecythis lurida,Lecythidaceae,FALSE,FALSE,,52.8,,,2,33.17,23.08,,,,,55,c055,Shade-tolerant,738263.221,9665612.609
+Santarem_3_PA,tanibuca,Terminalia amazonia,Combretaceae,FALSE,FALSE,,114.4,,,2,45.31,30.14,,,,,115,c115,,738254.2604,9665611.095
+Santarem_3_PA,louro ,Ocotea canaliculata,Lauraceae,FALSE,TRUE,INCOSISTENTE,,,,2,31.88,20.7,,,,,5,c5,,738276.1246,9665620.148
+Santarem_3_PA,jataua,Trichilia micrantha,Meliaceae,FALSE,FALSE,,63,,,2,23.37,16.45,,,,,65,c065,Shade-tolerant,738271.339,9665629.205
+Santarem_3_PA,envira,Xylopia sp,Annonaceae,FALSE,FALSE,,10.2,,,2,11.22,6.78,,,,,15,c015,,738302.7559,9665612.249
