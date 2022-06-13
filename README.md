@@ -1,7 +1,7 @@
 ---
 title: "FichasR-Index"
 author: "Eric Gorgens"
-date: "3/2/2022"
+date: "3/20/2022"
 output: html_document
 ---
 
@@ -14,13 +14,17 @@ output: html_document
 5. Diametrica
 6. Diamétrica comunidade
 7. BDq
-8. Passagem
-9. Markov
+8. Conhecimento a priori
+9. Incremento diamétrico
+10. Passagem
+11. Markov
 
 ## Bases
 
 1. inventario1.csv
 2. inventario2.csv
 3. markov.csv
-
-
+4. anambe.csv
+5. cauaxi.csv
+6. tapajos.csv
+7. inventario3.csv
